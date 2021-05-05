@@ -1,0 +1,25 @@
+{
+  "name": "tangerine-restaurant",
+  "version": "1.0.0",
+  "description": "A restaurant that is tangerine themed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbeckdev/tangerine-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbeckdev/tangerine-restaurant/issues"
+  },
+  "homepage": "https://github.com/mbeckdev/tangerine-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
